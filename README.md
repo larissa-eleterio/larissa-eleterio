@@ -1,4 +1,4 @@
-![](C:\Users\Lari\Downloads\Larissa_Eleterio.gif)
+![](Larissa_Eleterio.gif)
 
 ### Hi there 👋
 
