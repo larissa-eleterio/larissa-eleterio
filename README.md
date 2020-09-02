@@ -1,7 +1,7 @@
 <img> ![](Larissa_Eleterio.gif) </img>
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![LinkedIn][linkedin-shield]][linkedin.com/in/larissaeleterio]
+[[images/Larissa_Eleterio.gif]]
+
 ### Hello, world 👋
 
 [![LinkedIn][linkedin-shield]][linkedin-url]]
