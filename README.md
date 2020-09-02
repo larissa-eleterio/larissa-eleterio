@@ -4,7 +4,8 @@
 [![LinkedIn][linkedin-shield]][linkedin.com/in/larissaeleterio]
 ### Hello, world 👋
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]]
+
 [![LinkedIn][linkedin-shield]][linkedin.com/in/larissaeleterio]
 
 [LinkedIn](linkedin.com/in/larissaeleterio)
