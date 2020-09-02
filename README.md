@@ -1,25 +1,13 @@
 ![](Larissa_Eleterio.gif)
 
+[![LinkedIn][linkedin-shield]][linkedin-url]
 [![LinkedIn][linkedin-shield]][linkedin.com/in/larissaeleterio]
-### Hi there 👋
+### Hello, world 👋
 
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]][linkedin.com/in/larissaeleterio]
 
-Eu sou a Larissa, sou estatística trabalho com algoritmos de machine learning e decidi entrar uma jornada de aprendizado em visão computacional. Quero compartilhar esse processo com vocês.
+Eu sou a Larissa, sou estatística, trabalho com algoritmos de machine learning e decidi entrar uma jornada de aprendizado em visão computacional. Quero compartilhar esse processo com vocês!
 
 Tem muitos repositórios e conteúdos bons a caminho, fiquem a vontade!
 
-
-<!--
-**larissa-eleterio/larissa-eleterio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
