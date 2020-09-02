@@ -1,6 +1,6 @@
 <img> ![](Larissa_Eleterio.gif) </img>
 
-[[images/Larissa_Eleterio.gif]]
+
 
 ### Hello, world 👋
 
