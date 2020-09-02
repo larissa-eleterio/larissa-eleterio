@@ -1,14 +1,10 @@
 <img> ![](Larissa_Eleterio.gif) </img>
 
-
+<p align='center'>
+<a href="https://www.linkedin.com/in/larissaeleterio/"><img height="30" src="https://github.com/larissa-eleterio/larissa-eleterio/blob/master/img/linkedin.png"></a>
+</p>
 
 ### Hello, world 👋
-
-[![LinkedIn][linkedin-shield]][linkedin-url]]
-
-[![LinkedIn][linkedin-shield]][linkedin.com/in/larissaeleterio]
-
-[LinkedIn](linkedin.com/in/larissaeleterio)
 
 Eu sou a Larissa, sou estatística, trabalho com algoritmos de machine learning e decidi entrar uma jornada de aprendizado em visão computacional. Quero compartilhar esse processo com vocês!
 
