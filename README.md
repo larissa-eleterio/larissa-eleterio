@@ -1,4 +1,4 @@
-![](Larissa_Eleterio.gif)
+<img> ![](Larissa_Eleterio.gif)
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![LinkedIn][linkedin-shield]][linkedin.com/in/larissaeleterio]
