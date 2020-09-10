@@ -2,7 +2,7 @@
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/larissaeleterio/"><img height="30" src="https://github.com/larissa-eleterio/larissa-eleterio/blob/master/img/linkedin.png"></a>
-<a href="https://medium.com/@larissa.eleterio><img height="30" src="https://github.com/larissa-eleterio/larissa-eleterio/blob/master/img/medium.png"></a>
+<a href="https://medium.com/@larissa.eleterio"><img height="30" src="https://github.com/larissa-eleterio/larissa-eleterio/blob/master/img/medium.png"></a>
 <a href="larissa.eleterio@gmail.com"><img height="30" src="https://github.com/larissa-eleterio/larissa-eleterio/blob/master/img/gmail-0.jpg"></a>  
 </p>
 
