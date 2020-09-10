@@ -3,13 +3,12 @@
 <p align='center'>
 <a href="https://www.linkedin.com/in/larissaeleterio/"><img height="30" src="https://github.com/larissa-eleterio/larissa-eleterio/blob/master/img/linkedin.png"></a>
 <a href="https://medium.com/@larissa.eleterio"><img height="30" src="https://github.com/larissa-eleterio/larissa-eleterio/blob/master/img/medium.png"></a>
-<a href="https://github.com/larissa-eleterio/larissa-eleterio/blob/master/img/larissaeleterio.html"><img height="30" src="https://github.com/larissa-eleterio/larissa-eleterio/blob/master/img/gmail-0.jpg"></a>  
 </p>
 
 
 ### Hello, world 👋
 
-Eu sou a Larissa, sou estatística, trabalho com algoritmos de machine learning e decidi entrar em uma jornada de aprendizado em visão computacional. Quero compartilhar esse processo com vocês!
+Eu sou a Larissa[Larissa](mailto:larissa.eleterio@gmail.com?subject=[GitHub]%20Source%20Han%20Sans), sou estatística, trabalho com algoritmos de machine learning e decidi entrar em uma jornada de aprendizado em visão computacional. Quero compartilhar esse processo com vocês!
 
 Tem muitos repositórios e conteúdos bons a caminho, fiquem a vontade!
 
