@@ -4,6 +4,11 @@
 <a href="https://www.linkedin.com/in/larissaeleterio/"><img height="30" src="https://github.com/larissa-eleterio/larissa-eleterio/blob/master/img/linkedin.png"></a>
 </p>
 
+<p align='center'>
+<a href="larissa.eleterio@gmail.com"><img height="30" src="https://github.com/larissa-eleterio/larissa-eleterio/blob/master/img/linkedin.png"></a>
+</p>
+
+
 ### Hello, world 👋
 
 Eu sou a Larissa, sou estatística, trabalho com algoritmos de machine learning e decidi entrar em uma jornada de aprendizado em visão computacional. Quero compartilhar esse processo com vocês!
