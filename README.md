@@ -5,7 +5,7 @@
 </p>
 
 <p align='center'>
-<a href="larissa.eleterio@gmail.com"><img height="30" src="https://github.com/larissa-eleterio/larissa-eleterio/blob/master/img/linkedin.png"></a>
+<a href="larissa.eleterio@gmail.com"><img height="30" src="https://github.com/larissa-eleterio/larissa-eleterio/blob/master/img/gmail-0.jpg"></a>
 </p>
 
 
