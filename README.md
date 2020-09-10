@@ -8,7 +8,7 @@
 
 ### Hello, world 👋
 
-Eu sou a Larissa[Larissa](mailto:larissa.eleterio@gmail.com?subject=[GitHub]%20Source%20Han%20Sans), sou estatística, trabalho com algoritmos de machine learning e decidi entrar em uma jornada de aprendizado em visão computacional. Quero compartilhar esse processo com vocês!
+Eu sou a Larissa, sou estatística, trabalho com algoritmos de machine learning e decidi entrar em uma jornada de aprendizado em visão computacional. Quero compartilhar esse processo com vocês!
 
 Tem muitos repositórios e conteúdos bons a caminho, fiquem a vontade!
 
