@@ -1,4 +1,4 @@
-# [![Larissa Eleterio](https://github.com/larissa-eleterio/larissa-eleterio/blob/master/Larissa_Eleterio.gif)](https://github.com/larissa-eleterio/larissa-eleterio/blob/master/Larissa_Eleterio.gif)
+# [![Larissa Eleterio](https://github.com/larissa-eleterio/larissa-eleterio/blob/master/LarissaEleterio.gif)](https://github.com/larissa-eleterio/larissa-eleterio/blob/master/LarissaEleterio.gif)
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/larissaeleterio/"><img height="30" src="https://github.com/larissa-eleterio/larissa-eleterio/blob/master/img/linkedin.png"></a>
